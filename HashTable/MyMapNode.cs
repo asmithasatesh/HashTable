@@ -91,7 +91,7 @@ namespace HashTable
             {
                 if (keyValue.Key.Equals(key))
                 {
-                    Console.WriteLine("Key: " + keyValue.Key + "\t Value: " + keyValue.Value + "\tPosition: " + position);
+                    Console.WriteLine("Key: " + keyValue.Key + "\t Frequency: " + keyValue.Value + "\tPosition: " + position);
                 }
 
             }
